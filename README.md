@@ -14,8 +14,7 @@ This is a simple Go-based API server that provides currency conversion using the
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/go_currency_converter.git
-    cd go_currency_converter
+    git clone https://github.com/a-drawn-pixel/go_currency_converter.git
     ```
 
 2. Get your API key from [ExchangeRate-API](https://www.exchangerate-api.com/):
